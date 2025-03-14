@@ -42,10 +42,21 @@ _______
 + SQL File: `Task_101112.sql`
 
 ## Module 3 
+**Create interactive dashboard for sales and profits**
 + Set up the Tableau Workspace for data analysis
-+ Create interactive dashboard for sales and profits
 + Create a bar chart that shows customers sales and filter data based on sales with at least $70.
-+ 
++ Create a line chart to show the sales trend from 2019 to 2022.
++ Create a Bubble chart of sales for all customers.
++ Create a Bar chart that shows the sales of the Turkish, Italian and Greek cuisines.
++ Create an interactive dashboard.
 + Folder Tableau / File: `Little Lemon - Sales Analytics.twbx`
 + Captures: `Dashboard.png`
 
+***
+**Add query functions**
++ Set up the client project.
++ Import the connector module, enter your user details and connect with the database
++ Query the database to show all tables within the database.
++ Rreturn specific details from database as: full name and contact details for every customer that has placed an order greater than $60 for a promotional campaign.
++ Jupyter Notebook: `Add_query_function.ipynb`
+  
