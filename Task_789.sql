@@ -41,25 +41,41 @@ CALL CheckBooking('2022-10-10', 5);
 
 DELIMITER //
 
-CREATE PROCEDURE AddValidBooking(booking_date DATE, table_no INT)
+CREATE PROCEDURE AddValidBooking(IN booking_date DATE, IN table_no INT)
 BEGIN
-DECLARE table_check INT;
-DECLARE message VARCHAR(45) DEFAULT 'Booking successfull';
-DECLARE customerID INT;
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        -- Handle any SQL exception (including the trigger's error)
+        SELECT 'Error: Booking failed.' AS message;
+        ROLLBACK; -- Rollback the transaction if an error occurred
+    END;
 
-SET customerID = 3;
+    START TRANSACTION;
 
-START TRANSACTION; 
-SELECT COUNT(*) INTO table_check FROM Bookings WHERE tableNo = table_no AND Date = booking_date;
-INSERT INTO Bookings(CustomerID, Date, TableNo) VALUES(customerID, booking_date, table_no);
-IF table_check = 0 THEN
-	COMMIT;
-ELSE
-	ROLLBACK;
-    SET message = concat('Table ', table_no, ' is already booked. Booking cancelled');
-END IF;
+    INSERT INTO Bookings(CustomerID, Date, TableNo) VALUES(3, booking_date, table_no);
 
-SELECT message;
+    SELECT 'Booking Successful' AS message;
+
+    COMMIT; -- Commit the transaction if successful
+END //
+
+DELIMITER ;
+
+
+-- Create the Trigger
+DELIMITER //
+
+CREATE TRIGGER before_insert_booking
+BEFORE INSERT ON Bookings
+FOR EACH ROW
+BEGIN
+    IF EXISTS (
+        SELECT 1
+        FROM Bookings   WHERE Date = NEW.Date  AND table_no = NEW.table_no
+    ) THEN
+        SIGNAL SQLSTATE '45000'
+            SET MESSAGE_TEXT = 'Booking already exists for this date and table.';
+    END IF;
 END //
 
 DELIMITER ;
