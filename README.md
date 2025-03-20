@@ -2,6 +2,7 @@
 ## Module 1
 + Set up a repository for the project
 + Create an ER diagram data model and implement it in MySQL
++ *Data:* `data/littlelemon.csv` (filtered by country = United States)
 + *Files:* `LittleLemonDB_engine.sql`, `LittleLemonDB.mwb`, `LittleLemonMD.png`
 + Show the databases in the MySQL server >> `show_databases.png`.
 
