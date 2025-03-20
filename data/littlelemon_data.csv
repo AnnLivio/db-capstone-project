@@ -1,1 +1,652 @@
-
+OrderID,OrderDate,DeliveryDate,CustomerID,CustomerName,City,Country,Cost,Sales,Quantity,Course,Cuisine,Starter,Desert,Drink
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,190.0,285.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,144.09,216.135,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,125.0,187.5,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,91.84,137.76,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,235.0,352.5,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,119.8,179.7,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,125.0,187.5,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,235.0,352.5,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,320.0,480.0,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,52.08,78.12,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,235.0,352.5,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,210.0,315.0,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,144.09,216.135,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,133.17,199.755,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,320.0,480.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,210.0,315.0,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,133.17,199.755,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,93.13,139.695,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,119.8,179.7,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,144.09,216.135,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,52.08,78.12,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,210.0,315.0,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,320.0,480.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,190.0,285.0,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,52.08,78.12,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,98.0,147.0,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,91.84,137.76,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,133.17,199.755,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,133.17,199.755,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,125.0,187.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,52.08,78.12,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,125.0,187.5,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,168.27,252.40500000000003,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,320.0,480.0,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,124.62,186.93,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,98.0,147.0,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,168.27,252.40500000000003,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,124.62,186.93,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,93.13,139.695,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,310.0,465.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,124.62,186.93,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,44.57,66.855,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,125.0,187.5,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,210.0,315.0,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,93.13,139.695,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,44.57,66.855,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,210.0,315.0,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,75.0,112.5,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,69.38,104.07,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,98.0,147.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,125.0,187.5,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,310.0,465.0,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,44.57,66.855,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,93.13,139.695,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,52.08,78.12,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,310.0,465.0,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,320.0,480.0,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,210.0,315.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,210.0,315.0,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,310.0,465.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,168.27,252.40500000000003,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,69.38,104.07,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,93.13,139.695,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,119.8,179.7,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,83.99,125.98499999999999,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,69.38,104.07,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,119.8,179.7,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,75.0,112.5,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,91.84,137.76,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,119.8,179.7,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,220.0,330.0,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,44.57,66.855,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,75.0,112.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,220.0,330.0,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,44.57,66.855,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,144.09,216.135,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,190.0,285.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,83.99,125.98499999999999,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,91.84,137.76,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,220.0,330.0,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,75.0,112.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,310.0,465.0,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,91.84,137.76,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,225.0,337.5,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,93.13,139.695,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,44.57,66.855,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,44.57,66.855,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,69.38,104.07,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,91.84,137.76,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,69.38,104.07,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,190.0,285.0,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,75.0,112.5,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,98.0,147.0,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,225.0,337.5,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,190.0,285.0,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,98.0,147.0,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,144.09,216.135,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,320.0,480.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,98.0,147.0,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,101.6,152.39999999999998,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,69.38,104.07,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,220.0,330.0,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,144.09,216.135,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,101.6,152.39999999999998,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,220.0,330.0,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,125.0,187.5,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,52.08,78.12,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,225.0,337.5,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,69.38,104.07,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,320.0,480.0,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,101.6,152.39999999999998,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,144.09,216.135,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,91.84,137.76,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,320.0,480.0,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,133.17,199.755,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,75.0,112.5,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,220.0,330.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,220.0,330.0,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,190.0,285.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,320.0,480.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,190.0,285.0,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,52.08,78.12,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,144.09,216.135,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,83.99,125.98499999999999,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,133.17,199.755,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,52.08,78.12,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,83.99,125.98499999999999,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,125.0,187.5,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,93.13,139.695,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,235.0,352.5,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,190.0,285.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,101.6,152.39999999999998,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,125.0,187.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,235.0,352.5,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,101.6,152.39999999999998,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,168.27,252.40500000000003,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,310.0,465.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,133.17,199.755,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,190.0,285.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,93.13,139.695,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,235.0,352.5,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,125.0,187.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,320.0,480.0,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,93.13,139.695,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,210.0,315.0,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,144.09,216.135,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,101.6,152.39999999999998,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,101.6,152.39999999999998,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,52.08,78.12,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,93.13,139.695,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,52.08,78.12,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,310.0,465.0,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,125.0,187.5,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,225.0,337.5,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,210.0,315.0,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,310.0,465.0,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,225.0,337.5,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,168.27,252.40500000000003,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,75.0,112.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,225.0,337.5,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,124.62,186.93,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,52.08,78.12,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,235.0,352.5,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,124.62,186.93,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,235.0,352.5,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,69.38,104.07,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,91.84,137.76,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,210.0,315.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,52.08,78.12,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,75.0,112.5,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,124.62,186.93,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,93.13,139.695,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,75.0,112.5,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,44.57,66.855,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,125.0,187.5,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,235.0,352.5,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,235.0,352.5,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,310.0,465.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,75.0,112.5,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,310.0,465.0,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,91.84,137.76,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,168.27,252.40500000000003,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,133.17,199.755,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,44.57,66.855,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,91.84,137.76,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,133.17,199.755,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,69.38,104.07,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,144.09,216.135,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,133.17,199.755,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,119.8,179.7,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,310.0,465.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,124.62,186.93,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,69.38,104.07,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,119.8,179.7,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,124.62,186.93,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,190.0,285.0,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,320.0,480.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,44.57,66.855,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,310.0,465.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,144.09,216.135,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,119.8,179.7,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,69.38,104.07,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,75.0,112.5,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,144.09,216.135,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,220.0,330.0,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,168.27,252.40500000000003,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,124.62,186.93,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,124.62,186.93,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,91.84,137.76,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,144.09,216.135,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,91.84,137.76,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,320.0,480.0,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,69.38,104.07,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,210.0,315.0,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,220.0,330.0,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,320.0,480.0,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,210.0,315.0,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,190.0,285.0,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,125.0,187.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,210.0,315.0,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,98.0,147.0,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,91.84,137.76,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,119.8,179.7,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,190.0,285.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,98.0,147.0,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,119.8,179.7,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,52.08,78.12,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,93.13,139.695,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,220.0,330.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,91.84,137.76,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,125.0,187.5,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,98.0,147.0,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,190.0,285.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,144.09,216.135,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,125.0,187.5,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,101.6,152.39999999999998,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,69.38,104.07,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,119.8,179.7,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,119.8,179.7,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,320.0,480.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,125.0,187.5,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,320.0,480.0,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,93.13,139.695,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,190.0,285.0,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,44.57,66.855,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,101.6,152.39999999999998,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,93.13,139.695,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,44.57,66.855,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,52.08,78.12,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,44.57,66.855,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,83.99,125.98499999999999,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,320.0,480.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,98.0,147.0,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,52.08,78.12,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,83.99,125.98499999999999,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,98.0,147.0,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,310.0,465.0,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,75.0,112.5,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,101.6,152.39999999999998,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,320.0,480.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,168.27,252.40500000000003,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,52.08,78.12,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,125.0,187.5,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,168.27,252.40500000000003,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,235.0,352.5,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,190.0,285.0,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,98.0,147.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,98.0,147.0,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,93.13,139.695,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,93.13,139.695,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,75.0,112.5,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,52.08,78.12,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,220.0,330.0,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,235.0,352.5,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,75.0,112.5,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,220.0,330.0,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,310.0,465.0,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,69.38,104.07,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,220.0,330.0,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,225.0,337.5,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,93.13,139.695,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,310.0,465.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,225.0,337.5,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,83.99,125.98499999999999,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,91.84,137.76,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,144.09,216.135,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,235.0,352.5,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,93.13,139.695,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,69.38,104.07,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,225.0,337.5,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,310.0,465.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,168.27,252.40500000000003,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,69.38,104.07,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,124.62,186.93,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,52.08,78.12,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,83.99,125.98499999999999,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,83.99,125.98499999999999,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,75.0,112.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,69.38,104.07,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,75.0,112.5,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,144.09,216.135,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,310.0,465.0,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,101.6,152.39999999999998,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,124.62,186.93,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,144.09,216.135,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,101.6,152.39999999999998,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,91.84,137.76,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,190.0,285.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,101.6,152.39999999999998,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,133.17,199.755,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,75.0,112.5,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,225.0,337.5,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,91.84,137.76,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,133.17,199.755,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,225.0,337.5,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,320.0,480.0,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,125.0,187.5,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,124.62,186.93,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,75.0,112.5,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,190.0,285.0,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,133.17,199.755,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,91.84,137.76,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,69.38,104.07,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,190.0,285.0,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,119.8,179.7,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,310.0,465.0,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,225.0,337.5,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,225.0,337.5,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,144.09,216.135,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,190.0,285.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,144.09,216.135,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,125.0,187.5,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,91.84,137.76,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,235.0,352.5,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,119.8,179.7,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,125.0,187.5,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,235.0,352.5,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,320.0,480.0,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,52.08,78.12,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,235.0,352.5,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,210.0,315.0,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,144.09,216.135,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,133.17,199.755,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,320.0,480.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,210.0,315.0,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,133.17,199.755,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,93.13,139.695,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,119.8,179.7,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,144.09,216.135,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,52.08,78.12,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,210.0,315.0,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,320.0,480.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,190.0,285.0,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,52.08,78.12,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,98.0,147.0,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,91.84,137.76,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,133.17,199.755,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,133.17,199.755,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,125.0,187.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,52.08,78.12,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,125.0,187.5,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,168.27,252.40500000000003,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,320.0,480.0,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,124.62,186.93,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,98.0,147.0,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,168.27,252.40500000000003,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,124.62,186.93,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,93.13,139.695,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,310.0,465.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,124.62,186.93,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,44.57,66.855,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,125.0,187.5,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,210.0,315.0,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,93.13,139.695,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,44.57,66.855,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,210.0,315.0,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,75.0,112.5,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,69.38,104.07,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,98.0,147.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,125.0,187.5,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,310.0,465.0,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,44.57,66.855,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,93.13,139.695,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,52.08,78.12,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,310.0,465.0,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,320.0,480.0,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,210.0,315.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,210.0,315.0,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,310.0,465.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,168.27,252.40500000000003,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,69.38,104.07,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,93.13,139.695,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,119.8,179.7,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,83.99,125.98499999999999,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,69.38,104.07,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,119.8,179.7,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,75.0,112.5,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,91.84,137.76,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,119.8,179.7,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,220.0,330.0,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,44.57,66.855,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,75.0,112.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,220.0,330.0,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,44.57,66.855,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,144.09,216.135,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,190.0,285.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,83.99,125.98499999999999,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,91.84,137.76,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,220.0,330.0,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,75.0,112.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,310.0,465.0,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,91.84,137.76,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,225.0,337.5,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,93.13,139.695,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,44.57,66.855,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,44.57,66.855,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,69.38,104.07,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,91.84,137.76,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,69.38,104.07,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,190.0,285.0,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,75.0,112.5,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,98.0,147.0,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,225.0,337.5,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,190.0,285.0,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,98.0,147.0,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,144.09,216.135,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,320.0,480.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,98.0,147.0,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,101.6,152.39999999999998,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,69.38,104.07,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,220.0,330.0,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,144.09,216.135,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,101.6,152.39999999999998,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,220.0,330.0,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,125.0,187.5,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,52.08,78.12,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,225.0,337.5,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,69.38,104.07,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,320.0,480.0,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,101.6,152.39999999999998,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,144.09,216.135,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,91.84,137.76,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,320.0,480.0,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,133.17,199.755,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,75.0,112.5,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,220.0,330.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,220.0,330.0,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,190.0,285.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,320.0,480.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,190.0,285.0,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,52.08,78.12,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,144.09,216.135,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,83.99,125.98499999999999,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,133.17,199.755,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,52.08,78.12,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,83.99,125.98499999999999,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,125.0,187.5,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,93.13,139.695,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,235.0,352.5,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,190.0,285.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,101.6,152.39999999999998,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,125.0,187.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,235.0,352.5,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,101.6,152.39999999999998,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,168.27,252.40500000000003,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,310.0,465.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,133.17,199.755,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,190.0,285.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,93.13,139.695,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,235.0,352.5,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,125.0,187.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,320.0,480.0,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,93.13,139.695,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,210.0,315.0,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,144.09,216.135,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,101.6,152.39999999999998,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,101.6,152.39999999999998,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,52.08,78.12,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,93.13,139.695,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,52.08,78.12,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,310.0,465.0,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,125.0,187.5,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,225.0,337.5,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,210.0,315.0,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,310.0,465.0,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,225.0,337.5,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,168.27,252.40500000000003,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,75.0,112.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,225.0,337.5,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,124.62,186.93,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,52.08,78.12,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,235.0,352.5,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,124.62,186.93,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,235.0,352.5,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,69.38,104.07,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,91.84,137.76,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,210.0,315.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,52.08,78.12,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,75.0,112.5,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,124.62,186.93,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,93.13,139.695,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,75.0,112.5,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,44.57,66.855,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,125.0,187.5,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,235.0,352.5,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,235.0,352.5,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,310.0,465.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,75.0,112.5,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,310.0,465.0,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,91.84,137.76,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,168.27,252.40500000000003,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,133.17,199.755,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,44.57,66.855,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,91.84,137.76,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,133.17,199.755,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,69.38,104.07,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,144.09,216.135,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,133.17,199.755,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,119.8,179.7,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,310.0,465.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,124.62,186.93,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,69.38,104.07,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,119.8,179.7,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,124.62,186.93,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,190.0,285.0,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,320.0,480.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,44.57,66.855,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,310.0,465.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,144.09,216.135,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,119.8,179.7,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,69.38,104.07,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,75.0,112.5,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,144.09,216.135,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,220.0,330.0,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,168.27,252.40500000000003,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,124.62,186.93,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,124.62,186.93,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,91.84,137.76,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,144.09,216.135,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,91.84,137.76,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,320.0,480.0,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,69.38,104.07,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,210.0,315.0,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,220.0,330.0,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,320.0,480.0,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,210.0,315.0,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,190.0,285.0,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,125.0,187.5,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,210.0,315.0,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,98.0,147.0,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,91.84,137.76,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,119.8,179.7,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,190.0,285.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,98.0,147.0,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,119.8,179.7,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,52.08,78.12,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,93.13,139.695,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,220.0,330.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,91.84,137.76,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,125.0,187.5,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,98.0,147.0,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,190.0,285.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,144.09,216.135,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,125.0,187.5,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,101.6,152.39999999999998,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,69.38,104.07,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,119.8,179.7,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,119.8,179.7,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,320.0,480.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,125.0,187.5,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,320.0,480.0,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,93.13,139.695,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,190.0,285.0,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,44.57,66.855,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,101.6,152.39999999999998,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,93.13,139.695,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,44.57,66.855,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,52.08,78.12,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,44.57,66.855,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,83.99,125.98499999999999,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,320.0,480.0,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,98.0,147.0,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,52.08,78.12,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,83.99,125.98499999999999,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,98.0,147.0,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,310.0,465.0,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,75.0,112.5,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,101.6,152.39999999999998,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,320.0,480.0,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,168.27,252.40500000000003,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,52.08,78.12,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,125.0,187.5,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,168.27,252.40500000000003,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,235.0,352.5,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,190.0,285.0,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,98.0,147.0,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,98.0,147.0,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,93.13,139.695,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+696073610,2022-08-21,2021-03-30,370130292,Sterne Salterne,Shawnee Mission,United States,168.27,252.40500000000003,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+560766137,2020-08-13,2021-10-07,469572549,Mady McMennum,Provo,United States,93.13,139.695,2.0,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee
+068876332,2022-02-27,2019-12-19,529347220,Merwin Pikhno,Reno,United States,75.0,112.5,3.0,Pizza,Italian,Falafel,Cheesecake,Italian Coffee
+049044552,2021-07-14,2022-10-23,930779628,Aime Ferry,Sacramento,United States,52.08,78.12,2.0,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee
+600811759,2019-07-27,2022-04-20,811551642,Merlina Lermit,Allentown,United States,220.0,330.0,1.0,Carbonara,Italian,Minestrone,Affogato,Roma Red wine
+127181501,2020-06-05,2019-10-22,443719315,Schuyler Walewski,Inglewood,United States,235.0,352.5,3.0,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee
+997480471,2019-11-05,2021-03-04,167942589,Ariadne Copeland,Phoenix,United States,75.0,112.5,2.0,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine
+848643249,2019-12-18,2021-03-23,754968007,Tamma Clink,Charlotte,United States,220.0,330.0,1.0,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine
+103707784,2019-12-09,2020-11-15,011693967,Susette O'Neil,Hamilton,United States,310.0,465.0,2.0,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine
+874355817,2021-04-26,2021-03-01,304813036,Aldrich Phythien,Lubbock,United States,69.38,104.07,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+615099344,2021-02-13,2020-12-17,232456549,Dusty Yedall,Wilkes Barre,United States,220.0,330.0,3.0,Bean soup,Turkish,Tomato bread,Ice cream,Corfu Red Wine
+527089153,2023-01-06,2022-11-18,917578892,Roanna Safont,Kansas City,United States,225.0,337.5,1.0,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine
+665767484,2019-09-16,2020-05-24,456196096,Richie Brydson,Chesapeake,United States,93.13,139.695,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+272527456,2022-10-15,2022-10-02,474238685,Alfreda Chasmer,Fort Smith,United States,83.99,125.98499999999999,3.0,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine
+671561140,2020-03-20,2020-03-19,772546430,Renato Paulin,Grand Junction,United States,310.0,465.0,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
+531310339,2021-06-22,2021-01-25,192036248,Janeva Silman,Birmingham,United States,225.0,337.5,1.0,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee
+835470450,2021-04-24,2022-12-09,719085082,Wenona MacGinlay,Chicago,United States,83.99,125.98499999999999,3.0,Carbonara,Turkish,Hummus,Affogato,Roma Red wine
+533223671,2021-01-13,2022-03-28,130402063,Karissa Sancraft,Pompano Beach,United States,91.84,137.76,2.0,Kabasa,Italian,Hummus,Turkish yoghurt,Ankara White Wine
+928595564,2021-01-16,2022-03-30,789693391,Vale Norwood,Atlanta,United States,144.09,216.135,2.0,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine
+959356126,2021-06-08,2020-02-07,116877365,Lance Cheatle,Newport Beach,United States,235.0,352.5,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+902562320,2019-06-14,2020-11-07,380298372,Sherye Christmas,Buffalo,United States,93.13,139.695,2.0,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine
+796272533,2021-03-02,2021-05-06,030400318,Lorne Boldry,Decatur,United States,69.38,104.07,2.0,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine
+998626759,2021-12-26,2022-03-28,368502399,Yardley Eliet,Sacramento,United States,225.0,337.5,3.0,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine
+755560225,2020-02-15,2022-01-24,092032909,Doreen Sothcott,Decatur,United States,310.0,465.0,2.0,Kabasa,Greek,Flatbread,Turkish yoghurt,Ankara White Wine
+740062266,2022-03-10,2019-12-08,271049440,Petronille Scrimgeour,San Francisco,United States,168.27,252.40500000000003,2.0,Pizza,Greek,Hummus,Cheesecake,Italian Coffee
+540800702,2020-11-20,2021-01-13,825203770,Faith Grushin,Washington,United States,69.38,104.07,2.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+825052050,2020-07-25,2019-11-04,654810473,Hyacintha Hanne,Phoenix,United States,124.62,186.93,3.0,Bean soup,Turkish,Minestrone,Ice cream,Corfu Red Wine
+587538307,2021-07-14,2020-10-22,378453065,Donni Tatem,Fairbanks,United States,52.08,78.12,3.0,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee
+476126340,2020-03-27,2022-04-06,814884385,Mary Jellett,Pasadena,United States,83.99,125.98499999999999,3.0,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine
+423031476,2021-12-30,2021-06-30,309025761,Melodee Gartshore,Santa Cruz,United States,83.99,125.98499999999999,1.0,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine
+535634345,2021-03-08,2020-06-13,953398822,Sheela Stein,Salt Lake City,United States,75.0,112.5,2.0,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine
